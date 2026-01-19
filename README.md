@@ -1,4 +1,4 @@
-s#  Plant Disease Prediction using CNN 🌿
+#  Plant Disease Prediction using CNN 🌿
 
 ![GitHub license](https://img.shields.io/github/license/SwaroopKapse/Plant-Disease-Prediction-Using-CNN-Supervised)
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
