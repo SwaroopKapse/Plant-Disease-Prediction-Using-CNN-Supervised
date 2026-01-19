@@ -1,61 +1,24 @@
+# Final Plant Disease Prediction using CNN 🌿
 
-# Plant-Disease-Recognition-System
-Plant Disease Recognition System
+![GitHub license](https://img.shields.io/github/license/SwaroopKapse/Plant-Disease-Prediction-Using-CNN-Supervised)
+![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
 
-# Model Setup Instructions
+## 📌 Project Overview
+This project is a Deep Learning application that identifies various plant diseases from leaf images. Using a **Convolutional Neural Network (CNN)**, the model can accurately classify healthy and diseased plants, helping farmers take early action to save their crops.
 
-To use this project, you need to download a pre-trained model from the given Google Drive link and place it in the `models` directory. Follow the steps below to set it up correctly:
+## 🚀 Features
+* **Image Upload:** Users can upload photos of plant leaves through a web interface.
+* **Real-time Prediction:** The CNN model processes the image and returns the disease name.
+* **User-friendly UI:** Built with Flask (Python) and HTML/CSS for a smooth experience.
 
-## Steps to Download and Place the Model
+## 🛠️ Tech Stack
+* **Language:** Python
+* **Deep Learning Framework:** TensorFlow / Keras
+* **Web Framework:** Flask
+* **Frontend:** HTML, CSS, JavaScript
 
-1. **Download the Model**
-   - Click [here](https://drive.google.com/file/d/1Ond7UzrNOfdAXWedjlZr2sDXYU6MRBuj/view?usp=sharing) to open the Google Drive link.
-   - Click the **Download** button to save the file to your local system.
-
-2. **Create the Models Folder**
-   - Navigate to the root directory of this project.
-   - Create a folder named `models` if it does not already exist.
-     ```bash
-     mkdir models
-     ```
-
-3. **Place the Model in the Folder**
-   - Move the downloaded file into the `models` directory.
-     ```bash
-     mv /path/to/downloaded/model models/
-     ```
-     Replace `/path/to/downloaded/model` with the actual path where you downloaded the file.
-
-4. **Verify the Setup**
-   - Ensure that the model file is correctly placed in the `models` directory by listing the folder's contents:
-     ```bash
-     ls models
-     ```
-     You should see the downloaded model file in the output.
-
-## Usage
-
-1. **Specify the Model File Location**
-   - Open the `app.py` file in a text editor.
-   - Locate line 8, which contains the following code:
-     ```python
-     tf.keras.models.load_model("")
-     ```
-   - Update the empty string with the relative path to the model file. For example:
-     ```python
-     tf.keras.models.load_model("models/your_model_file.keras")
-     ```
-     Replace `your_model_file.keras` with the actual name of the model file you downloaded.
-
-2. **Run the Server**
-   - Open a terminal and navigate to the root directory of this project.
-   - Run the following command to start the server:
-     ```bash
-     python app.py
-     ```
-
-3. **Access the Application**
-   - Once the server is running, follow the instructions displayed in the terminal to access the application in your web browser.
-
-# Plant-Disease-Prediction-Using-CNN
-Plant Disease Prediction using CNN and MobileNetV2 - Supervised Learning with Flask.
+## 📥 Installation & Setup
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/SwaroopKapse/Plant-Disease-Prediction-Using-CNN-Supervised.git](https://github.com/SwaroopKapse/Plant-Disease-Prediction-Using-CNN-Supervised.git)
+   cd "Final Plant Disease Prediction"
