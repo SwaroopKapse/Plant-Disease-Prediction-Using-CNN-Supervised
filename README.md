@@ -28,6 +28,8 @@ This project is a Deep Learning application that identifies various plant diseas
  <img width="1470" height="956" alt="s2" src="https://github.com/user-attachments/assets/bee4d6e1-b793-424b-b16b-3f4c2b82a9b5" />
  <img width="1470" height="956" alt="s3" src="https://github.com/user-attachments/assets/43a5366e-0114-4ffd-abbb-b616ab2aaca4" />
  <img width="1470" height="956" alt="s1" src="https://github.com/user-attachments/assets/b5b347b8-ed6c-4e86-b53f-ba2b62df7745" />
+ <img width="544" height="625" alt="ACCURACY097" src="https://github.com/user-attachments/assets/4d8ff262-5366-4b0b-91af-bf18034798dc" />
+
 
 
 
