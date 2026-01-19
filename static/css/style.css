@@ -1,0 +1,120 @@
+.carousel-item {
+    width: 100vw;
+    height: 95vh;
+    color: rgba(0, 0, 0, 0.928);
+    background-image: url("/static/images/crop_background6.jpg");
+    background-size: cover;
+    background-position: center;
+    /* animation: changeFrame 15s linear infinite; */
+}
+
+/* @keyframes changeFrame {
+    0% {
+        background-image: url("/static/images/crop_background1.jpg");
+    }
+    25% {
+        background-image: url("/static/images/crop_background2.jpg");
+    }
+    50% {
+        background-image: url("/static/images/crop_background3.jpg");
+    }
+    75% {
+        background-image: url("/static/images/crop_background4.jpg");
+    }
+    100% {
+        background-image: url("/static/images/crop_background5.jpg");
+    }
+} */
+
+
+.carousel-text-wrapper{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    backdrop-filter: blur(2px);
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.text-center h1{
+    font-weight: bold;
+    font-size: 102px;
+    text-shadow: 4px 4px 4px #565257;
+
+}
+.carousel-text-title{
+    font-weight: bold;
+    font-size: 82px;
+    text-shadow: 4px 4px 4px #565257;
+
+}
+
+.form-box{
+    margin: auto;
+    text-align: center;
+    display: flex;
+
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    /* position: relative; */
+
+}
+form{
+    margin: auto;
+
+}
+.input-box{
+    margin: 15px
+}
+
+ /* .result-container{
+    background-color: blue;
+    
+} */
+
+.result-box{
+    margin: auto;
+
+    height: 400px;
+    width: 90vw;
+    display: flex;
+    background-color: rgb(237, 204, 158);
+    border-radius: 20px;
+
+}
+
+.result-img-container{
+
+    width: 30%;
+    height: 80%;
+    margin: auto;
+    border-radius: 15px;
+
+}
+
+.result-text{
+
+    width: 60%;
+    margin: auto;
+    height: 80%;
+    border-radius: 15px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+
+.result-image{
+    width: 100%;
+    height: 100%;
+    /* border-radius: 50%; */
+    border-radius: 20px;
+}
+.file-input-wrapper {
+    position: relative;
+    z-index: 1000;
+}
+
+.file-input-wrapper input[type="file"] {
+    cursor: pointer;
+}
