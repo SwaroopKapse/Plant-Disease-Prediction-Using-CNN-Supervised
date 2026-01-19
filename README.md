@@ -23,3 +23,12 @@ This project is a Deep Learning application that identifies various plant diseas
    git clone [https://github.com/SwaroopKapse/Plant-Disease-Prediction-Using-CNN-Supervised.git](https://github.com/SwaroopKapse/Plant-Disease-Prediction-Using-CNN-Supervised.git)
    cd "Final Plant Disease Prediction"
  MODEL TRAINING : https://colab.research.google.com/drive/1EuNhIQ3Cte3ygrxsnoxvFyPtX1fx5Qtt?usp=share_link
+
+ <img width="1470" height="956" alt="Screenshot 2026-01-15 at 11 07 08 PM" src="https://github.com/user-attachments/assets/a9af3be4-3ccd-4535-ae7d-8df98c0a6f97" />
+ <img width="1470" height="956" alt="s2" src="https://github.com/user-attachments/assets/bee4d6e1-b793-424b-b16b-3f4c2b82a9b5" />
+ <img width="1470" height="956" alt="s3" src="https://github.com/user-attachments/assets/43a5366e-0114-4ffd-abbb-b616ab2aaca4" />
+ <img width="1470" height="956" alt="s1" src="https://github.com/user-attachments/assets/b5b347b8-ed6c-4e86-b53f-ba2b62df7745" />
+
+
+
+
